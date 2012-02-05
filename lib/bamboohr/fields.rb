@@ -83,7 +83,7 @@ module BambooHR::Fields
     :state=>"The employee's state/province", 
     :stateCode=>"The 2 character abbreviation for the employee's state (US only). Not editable.", 
     :status=>"Employee status", 
-    :supervisor=>"The emloyee’s CURRENT supervisor. Not editable.", 
+    :supervisor=>"The emloyee's CURRENT supervisor. Not editable.", 
     :supervisorId=>"The 'employeeNumber' of the employee's CURRENT supervisor. Not editable.", 
     :supervisorEId=>"The 'id' of the employee's CURRENT supervisor. Not editable.", 
     :terminationDate=>"The date the employee was terminated",
