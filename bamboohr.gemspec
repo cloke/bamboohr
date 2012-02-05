@@ -4,12 +4,12 @@ require "bamboohr/version"
 
 Gem::Specification.new do |s|
   s.name        = "bamboohr"
-  s.version     = Bamboohr::VERSION
+  s.version     = BambooHR::VERSION
   s.authors     = ["Jon Williams"]
   s.email       = ["jon@jonathannen.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Ruby Library to the BambooHR API}
+  s.description = %q{Ruby Library to the BambooHR API}
 
   s.rubyforge_project = "bamboohr"
 
